@@ -1,0 +1,551 @@
+Rank,Title,Salary,Satisfaction,Year,Country
+1,Enterprise Architect,$144.997,4.1/5,2022,America
+2,Full Stack Engineer,$101.794,4.3/5,2022,America
+3,Data Scientist,$120.000,4.1/5,2022,America
+4,Devops Engineer,$120.095,4.2/5,2022,America
+5,Strategy Manager,$140.000,4.2/5,2022,America
+6,Machine Learning Engineer,$130.489,4.3/5,2022,America
+7,Data Engineer,$113.960,4.0/5,2022,America
+8,Software Engineer,$116.638,3.9/5,2022,America
+9,Java Developer,$107.099,4.1/5,2022,America
+10,Product Manager,$125.317,4.0/5,2022,America
+11,Back End Engineer,$112.384,4.2/5,2022,America
+12,Cloud Engineer,$118.999,4.0/5,2022,America
+13,HR Manager,$91.502,4.3/5,2022,America
+14,Business Development Manager,$89.496,4.2/5,2022,America
+15,Information Security Engineer,$116.919,4.1/5,2022,America
+16,Physician,$155.400,3.9/5,2022,America
+17,Corporate Recruiter,$77.700,4.4/5,2022,America
+18,Salesforce Developer,$98.972,4.2/5,2022,America
+19,Marketing Manager,$90.748,4.1/5,2022,America
+20,Consultant,$90.748,3.9/5,2022,America
+21,Automation Engineer,$86.832,4.1/5,2022,America
+22,Psychiatrist,$252.385,4.0/5,2022,America
+23,Sales Manager,$79.962,4.0/5,2022,America
+24,UX Designer,$97.047,4.0/5,2022,America
+25,Finance Manager,$114.414,3.9/5,2022,America
+26,Tax Manager,$125.639,4.0/5,2022,America
+27,Attorney,$100.831,4.0/5,2022,America
+28,Dentist,$157.307,3.9/5,2022,America
+29,Site Reliability Engineer,$137.252,4.0/5,2022,America
+30,Systems Engineer,$100.831,3.9/5,2022,America
+31,Electrical Engineer,$86.545,4.0/5,2022,America
+32,Scrum Master,$109.284,4.1/5,2022,America
+33,Product Marketing Manager,$125.015,4.1/5,2022,America
+34,Psychologist,$95.199,3.9/5,2022,America
+35,Data Analyst,$74.224,4.0/5,2022,America
+36,Business Analyst,$81.556,3.9/5,2022,America
+37,QA Engineer,$87.626,4.1/5,2022,America
+38,Front End Engineer,$81.136,4.0/5,2022,America
+39,HR Business Partner,$95.431,4.0/5,2022,America
+40,Project Manager,$86.000,3.8/5,2022,America
+41,Compliance Officer,$80.000,3.9/5,2022,America
+42,Program Manager,$81.335,3.9/5,2022,America
+43,Risk Manager,$102.647,3.9/5,2022,America
+44,Sales Engineer,$95.809,4.0/5,2022,America
+45,Solutions Engineer,$100.915,4.1/5,2022,America
+46,Product Designer,$110.858,4.1/5,2022,America
+47,Database Architect,$140.000,4.0/5,2022,America
+48,Realtor,$54.090,4.4/5,2022,America
+49,Strategic Account Manager,$88.071,4.0/5,2022,America
+50,Customer Success Manager,$73.702,4.0/5,2022,America
+1,Java Developer,$90.830,4.2/5,2021,America
+2,Data Scientist,$113.736,4.1/5,2021,America
+3,Product Manager,$121.107,3.9/5,2021,America
+4,Enterprise Architect,$131.361,4.0/5,2021,America
+5,Devops Engineer,$110.003,4.0/5,2021,America
+6,Information Security Engineer,$110.000,4.0/5,2021,America
+7,Business Development Manager,$82.182,4.1/5,2021,America
+8,Mobile Engineer,$94.301,4.1/5,2021,America
+9,Software Engineer,$110.245,3.8/5,2021,America
+10,Dentist,$134.122,4.0/5,2021,America
+11,Front End Engineer,$81.360,4.0/5,2021,America
+12,HR Manager,$87.852,4.2/5,2021,America
+13,Strategy Manager,$123.207,4.2/5,2021,America
+14,Salesforce Developer,$89.098,4.2/5,2021,America
+15,Automation Engineer,$86.445,4.1/5,2021,America
+16,Back End Engineer,$90.757,4.3/5,2021,America
+17,Machine Learning Engineer,$104.837,4.1/5,2021,America
+18,Product Marketing Manager,$120.267,4.1/5,2021,America
+19,Tax Manager,$111.046,4.0/5,2021,America
+20,Program Manager,$80.066,3.9/5,2021,America
+21,Consultant,$83.069,3.9/5,2021,America
+22,Solutions Engineer,$90.942,4.2/5,2021,America
+23,Cloud Engineer,$105.565,3.9/5,2021,America
+24,UX Designer,$90.881,4.0/5,2021,America
+25,Product Designer,$104.120,4.1/5,2021,America
+26,Sales Manager,$72.560,3.9/5,2021,America
+27,Clinical Nurse,$74.031,4.0/5,2021,America
+28,Clinic Manager,$74.562,4.0/5,2021,America
+29,Business Analyst,$76.201,3.9/5,2021,America
+30,Technical Program Manager,$142.379,4.0/5,2021,America
+31,Marketing Manager,$68.042,3.9/5,2021,America
+32,Project Manager,$80.562,3.8/5,2021,America
+33,Construction Superintendent,$80.738,3.9/5,2021,America
+34,QA Engineer,$85.000,4.0/5,2021,America
+35,Data Analyst,$70.000,3.9/5,2021,America
+36,Realtor,$52.022,4.4/5,2021,America
+37,Electrical Engineer,$80.033,3.9/5,2021,America
+38,Attorney,$86.071,3.9/5,2021,America
+39,Operations Manager,$70.000,3.8/5,2021,America
+40,Scrum Master,$105.000,4.0/5,2021,America
+41,Physician Assistant,$107.238,3.8/5,2021,America
+42,Technical Project Manager,$103.633,3.9/5,2021,America
+43,Tax Accountant,$67.028,3.9/5,2021,America
+44,Risk Manager,$94.488,3.9/5,2021,America
+45,Finance Manager,$110.091,3.7/5,2021,America
+46,Corporate Recruiter,$70.959,4.4/5,2021,America
+47,Customer Success Manager,$66.041,4.1/5,2021,America
+48,Civil Engineer,$65.612,4.0/5,2021,America
+49,Financial Analyst,$70.959,3.9/5,2021,America
+50,Mechanical Engineer,$75.785,3.9/5,2021,America
+1,Front End Engineer,$105.240,3.9/5,2020,America
+2,Java Developer,$83.589,3.9/5,2020,America
+3,Data Scientist,$107.801,4.0/5,2020,America
+4,Product Manager,$117.713,3.8/5,2020,America
+5,DevOps Engineer,$107.310,3.9/5,2020,America
+6,Data Engineer,$102.472,3.9/5,2020,America
+7,Software Engineer,$105.563,3.6/5,2020,America
+8,Speech Language Pathologist,$71.867,3.8/5,2020,America
+9,Strategy Manager,$133.067,4.3/5,2020,America
+10,Business Development Manager,$78.480,4.0/5,2020,America
+11,Nursing Manager,$85.389,3.7/5,2020,America
+12,HR Manager,$83.190,4.1/5,2020,America
+13,Operations Manager,$70.189,3.8/5,2020,America
+14,Salesforce Developer,$81.175,4.2/5,2020,America
+15,Finance Manager,$120.644,3.8/5,2020,America
+16,Accounting Manager,$85.794,4.0/5,2020,America
+17,Program Manager,$87.005,3.6/5,2020,America
+18,Applications Engineer,$76.854,3.7/5,2020,America
+19,Clinic Manager,$70.000,3.9/5,2020,America
+20,Physical Therapist,$71.483,3.6/5,2020,America
+21,Project Manager,$77.396,3.6/5,2020,America
+22,Electrical Engineer,$77.035,3.7/5,2020,America
+23,Occupational Therapist,$74.339,3.6/5,2020,America
+24,Facilities Manager,$70.160,3.8/5,2020,America
+25,Sales Manager,$70.489,3.8/5,2020,America
+26,Business Analyst,$73.022,3.6/5,2020,America
+27,Systems Engineer,$92.225,3.5/5,2020,America
+28,Compliance Officer,$84.784,3.7/5,2020,America
+29,Scrum Master,$100.000,3.8/5,2020,America
+30,Customer Success Manager,$66.326,4.2/5,2020,America
+31,Risk Manager,$101.468,3.7/5,2020,America
+32,Software Developer,$80.429,3.5/5,2020,America
+33,Cloud Engineer,$110.600,3.6/5,2020,America
+34,Product Designer,$102.000,4.2/5,2020,America
+35,Realtor,$50.467,4.2/5,2020,America
+36,Mechanical Engineer,$75.700,3.7/5,2020,America
+37,Corporate Recruiter,$65.607,4.4/5,2020,America
+38,UX Designer,$90.478,3.8/5,2020,America
+39,QA Engineer,$81.632,3.8/5,2020,America
+40,Financial Analyst,$71.334,3.6/5,2020,America
+41,Physician Assistant,$109.585,3.6/5,2020,America
+42,Sales Engineer,$87.608,3.8/5,2020,America
+43,Civil Engineer,$65.704,3.8/5,2020,America
+44,Data Analyst,$62.973,3.7/5,2020,America
+45,EHS Specialist,$76.854,3.7/5,2020,America
+46,Automation Engineer,$85.456,3.8/5,2020,America
+47,Research Scientist,$85.611,3.5/5,2020,America
+48,Design Manager,$120.549,4.1/5,2020,America
+49,Network Engineer,$71.028,3.6/5,2020,America
+50,Healthcare Consultant,$79.065,3.9/5,2020,America
+1,Data Scientist,$108.000,4.3/5,2019,America
+2,Nursing Manager,$83.000,4/5,2019,America
+3,Marketing Manager,$82.000,4.2/5,2019,America
+4,Occupational Therapist,$74.000,4/5,2019,America
+5,Product Manager,$115.000,3.8/5,2019,America
+6,Devops Engineer,$106.000,4.1/5,2019,America
+7,Program Manager,$87.000,3.9/5,2019,America
+8,Data Engineer,$100.000,3.9/5,2019,America
+9,HR Manager,$85.000,4.2/5,2019,America
+10,Software Engineer,$104.000,3.6/5,2019,America
+11,Mechanical Engineer,$75.000,3.9/5,2019,America
+12,Physician Assistant,$105.000,3.7/5,2019,America
+13,Sales Manager,$65.000,3.8/5,2019,America
+14,Sales Engineer,$90.000,4.1/5,2019,America
+15,Operations Manager,$68.000,3.8/5,2019,America
+16,Strategy Manager,$140.000,4/5,2019,America
+17,Security Engineer,$102.000,3.8/5,2019,America
+18,Construction Manager,$75.000,4.3/5,2019,America
+19,Speech Language Pathologist,$72.000,3.7/5,2019,America
+20,Project Manager,$75.000,3.6/5,2019,America
+21,Product Designer,$100.000,4.5/5,2019,America
+22,Java Developer,$85.000,3.7/5,2019,America
+23,Executive Assistant,$60.000,4.1/5,2019,America
+24,Electrical Engineer,$77.000,3.7/5,2019,America
+25,Finance Manager,$118.000,3.8/5,2019,America
+26,Business Analyst,$72.000,3.7/5,2019,America
+27,Solutions Architect,$127.900,3.6/5,2019,America
+28,Recruiter,$48.000,4.1/5,2019,America
+29,Business Development Manager,$80.000,3.7/5,2019,America
+30,Dental Hygienist,$67.250,4.5/5,2019,America
+31,Data Analyst,$60.000,3.9/5,2019,America
+32,Nurse Practitioner,$102.000,3.5/5,2019,America
+33,Applications Engineer,$77.000,4/5,2019,America
+34,QA Manager,$91.250,4.1/5,2019,America
+35,Risk Manager,$100.500,3.7/5,2019,America
+36,Communications Manager,$80.000,4.2/5,2019,America
+37,Physical Therapist,$70.000,3.6/5,2019,America
+38,Facilities Manager,$65.000,4/5,2019,America
+39,Systems Engineer,$90.000,3.5/5,2019,America
+40,Customer Success Manager,$65.000,4.2/5,2019,America
+41,Radiologic Technologist,$48.000,4/5,2019,America
+42,Restaurant Manager,$49.000,3.8/5,2019,America
+43,Software Engineering Manager,$153.000,4/5,2019,America
+44,Software Developer,$80.000,3.5/5,2019,America
+45,Safety Manager,$71.000,4.1/5,2019,America
+46,UX Designer,$89.000,3.7/5,2019,America
+47,Office Manager,$42.000,3.9/5,2019,America
+48,Brand Manager,$85.000,4.3/5,2019,America
+49,Software Development Manager,$140.000,4.2/5,2019,America
+50,Systems Administrator,$68.000,3.6/5,2019,America
+1,Data Scientist,$110.000,4.2/5,2018,America
+2,DevOps Engineer,$105.000,4.0/5,2018,America
+3,Marketing Manager,$85.000,4.0/5,2018,America
+4,Occupational Therapist,$74.000,4.0/5,2018,America
+5,HR Manager,$85.000,3.9/5,2018,America
+6,Electrical Engineer,$76.000,3.9/5,2018,America
+7,Strategy Manager,$135.000,4.2/5,2018,America
+8,Mobile Developer,$90.000,4.1/5,2018,America
+9,Product Manager,$113.000,3.7/5,2018,America
+10,Manufacturing Engineer,$72.000,4.0/5,2018,America
+11,Compliance Manager,$96.000,4.3/5,2018,America
+12,Finance Manager,$116.000,3.8/5,2018,America
+13,Risk Manager,$97.000,4.2/5,2018,America
+14,Business Development Manager,$75.000,3.9/5,2018,America
+15,Front End Engineer,$100.000,4.2/5,2018,America
+16,Site Reliability Engineer,$120.000,4.1/5,2018,America
+17,Mechanical Engineer,$75.000,3.8/5,2018,America
+18,Analytics Manager,$115.000,3.9/5,2018,America
+19,Tax Manager,$110.000,3.7/5,2018,America
+20,Creative Manager,$110.000,4.3/5,2018,America
+21,Software Engineer,$102.500,3.6/5,2018,America
+22,Hardware Engineer,$115.000,4.2/5,2018,America
+23,Corporate Recruiter,$65.000,4.3/5,2018,America
+24,QA Manager,$92.000,3.8/5,2018,America
+25,Physician Assistant,$104.000,3.6/5,2018,America
+26,Database Administrator,$94.000,3.8/5,2018,America
+27,UX Designer,$90.000,3.8/5,2018,America
+28,Nursing Manager,$84.660,3.7/5,2018,America
+29,Engagement Manager,$115.000,3.7/5,2018,America
+30,Solutions Architect,$125.000,3.6/5,2018,America
+31,Process Engineer,$78.000,3.8/5,2018,America
+32,Reliability Engineer,$92.000,4.3/5,2018,America
+33,Data Engineer,$100.000,3.7/5,2018,America
+34,Operations Manager,$65.000,3.8/5,2018,America
+35,Speech Language Pathologist,$72.000,3.7/5,2018,America
+36,Communications Manager,$80.000,3.9/5,2018,America
+37,Audit Manager,$100.000,3.7/5,2018,America
+38,Data Analyst,$60.000,3.9/5,2018,America
+39,Systems Analyst,$75.000,3.7/5,2018,America
+40,Facilities Manager,$75.000,3.8/5,2018,America
+41,Strategic Account Manager,$85.000,4.1/5,2018,America
+42,Business Intelligence Developer,$86.000,3.9/5,2018,America
+43,Business Analyst,$71.000,3.6/5,2018,America
+44,Accounting Manager,$82.000,3.6/5,2018,America
+45,UI Developer,$95.000,3.8/5,2018,America
+46,Executive Assistant,$55.000,3.9/5,2018,America
+47,Management Consultant,$110.000,3.8/5,2018,America
+48,Project Manager,$80.000,3.5/5,2018,America
+49,Nurse Practitioner,$100.000,3.5/5,2018,America
+50,HR Generalist,$57.120,3.9/5,2018,America
+1,Data Scientist,$110.000,4.4/5,2017,America
+2,DevOps Engineer,$110.000,4.2/5,2017,America
+3,Data Engineer,$106.000,4.3/5,2017,America
+4,Tax Manager,$110.000,4.0/5,2017,America
+5,Analytics Manager,$112.000,4.1/5,2017,America
+6,HR Manager,$85.000,3.8/5,2017,America
+7,Database Administrator,$93.000,3.8/5,2017,America
+8,Strategy Manager,$130.000,4.3/5,2017,America
+9,UX Designer,$92.500,4.0/5,2017,America
+10,Solutions Architect,$125.000,3.7/5,2017,America
+11,Marketing Manager,$90.000,3.7/5,2017,America
+12,Occupational Therapist,$72.000,3.7/5,2017,America
+13,Audit Manager,$98.000,3.8/5,2017,America
+14,Electrical Engineer,$78.000,3.7/5,2017,America
+15,Nurse Practitioner,$100.000,3.5/5,2017,America
+16,Software Engineer,$101.000,3.5/5,2017,America
+17,Corporate Recruiter,$60.000,4.2/5,2017,America
+18,Supply Chain Manager,$100.000,3.9/5,2017,America
+19,Finance Manager,$116.000,3.6/5,2017,America
+20,Mechanical Engineer,$76.000,3.7/5,2017,America
+21,Communications Manager,$82.000,4.0/5,2017,America
+22,QA Manager,$92.000,3.7/5,2017,America
+23,Controls Engineer,$75.400,3.9/5,2017,America
+24,Nurse Manager,$77.000,3.6/5,2017,America
+25,Compliance Manager,$100.000,3.9/5,2017,America
+26,Mobile Developer,$85.000,3.7/5,2017,America
+27,Systems Administrator,$68.000,3.7/5,2017,America
+28,Executive Assistant,$56.000,3.8/5,2017,America
+29,Technical Account Manager,$66.000,3.9/5,2017,America
+30,Hardware Engineer,$108.000,3.9/5,2017,America
+31,Intelligence Analyst,$62.400,4.2/5,2017,America
+32,Product Manager,$107.000,3.4/5,2017,America
+33,Professor,$70.000,3.8/5,2017,America
+34,Physician,$200.000,3.5/5,2017,America
+35,Compensation Analyst,$70.000,4.1/5,2017,America
+36,Civil Engineer,$65.200,3.8/5,2017,America
+37,Research Engineer,$92.850,3.8/5,2017,America
+38,Accounting Manager,$82.000,3.5/5,2017,America
+39,Information Security Engineer,$100.000,3.7/5,2017,America
+40,Manufacturing Engineer,$70.000,3.7/5,2017,America
+41,Security Analyst,$70.000,3.7/5,2017,America
+42,Business Operations Manager,$93.000,3.8/5,2017,America
+43,UI Designer,$80.000,4.0/5,2017,America
+44,Pharmacy Manager,$130.000,3.5/5,2017,America
+45,Supplier Quality Engineer,$80.150,4.0/5,2017,America
+46,National Sales Manager,$90.000,3.8/5,2017,America
+47,Business Intelligence Developer,$83.000,3.9/5,2017,America
+48,Dental Hygienist,$66.000,4.1/5,2017,America
+49,Physical Therapist,$70.000,3.5/5,2017,America
+50,Construction Project Manager,$85.000,3.6/5,2017,America
+1,Data Scientist,$116.840,4.1/5,2016,America
+2,Tax Manager,$108.000,3.9/5,2016,America
+3,Solutions Architect,$119.500,3.5/5,2016,America
+4,Engagement Manager,$125.000,3.8/5,2016,America
+5,Mobile Developer,$90.000,3.8/5,2016,America
+6,HR Manager,$85.000,3.7/5,2016,America
+7,Physician Assistant,$97.000,3.5/5,2016,America
+8,Product Manager,$106.680,3.3/5,2016,America
+9,Software Engineer,$95.000,3.3/5,2016,America
+10,Audit Manager,$95.000,3.9/5,2016,America
+11,Analytics Manager,$105.000,3.7/5,2016,America
+12,Software Development Manager,$135.000,3.4/5,2016,America
+13,Product Marketing Manager,$115.000,3.5/5,2016,America
+14,Marketing Manager,$90.000,3.4/5,2016,America
+15,QA Manager,$85.000,3.4/5,2016,America
+16,Finance Manager,$115.000,3.3/5,2016,America
+17,Business Development Manager,$80.000,3.4/5,2016,America
+18,UX Designer,$91.800,3.6/5,2016,America
+19,Strategy Manager,$130.000,3.7/5,2016,America
+20,Technical Account Manager,$69.548,3.7/5,2016,America
+21,Consultant,$84.000,3.4/5,2016,America
+22,Construction Superintendent,$78.000,3.4/5,2016,America
+23,Nurse Practitioner,$99.500,3.1/5,2016,America
+24,Electrical Engineer,$76.900,3.3/5,2016,America
+25,Software Architect,$130.000,3.4/5,2016,America
+1,Physician Assistant ,$111.376,3.5/5,2015,America
+2,Software Engineer,$98.074,3.3/5,2015,America
+3,Business Development Manager,$94.907,3.5/5,2015,America
+4,Human Resources Manager,$96.443,3.6/5,2015,America
+5,Finance Manager,$122.865,3.4/5,2015,America
+6,Marketing Manager ,$100.130,3.4/5,2015,America
+7,Database Administrator,$97.835,3.4/5,2015,America
+8,Product Manager,$113.363,3.3/5,2015,America
+9,Data Scientist,$104.476,3.8/5,2015,America
+10,Sales Manager,$121.657,3.4/5,2015,America
+11,Solutions Architect,$121.657,3.4/5,2015,America
+12,Mechanical Engineer,$73.015,3.3/5,2015,America
+13,QA Engineer,$77.499,3.2/5,2015,America
+14,Business Analyst,$74.638,3.2/5,2015,America
+15,Electrical Engineer,$76.803,3.3/5,2015,America
+16,Network Engineer,$87.518,3.2/5,2015,America
+17,Civil Engineer,$73.383,3.5/5,2015,America
+18,Audit Manager,$69.271,3.9/5,2015,America
+19,Physical Therapist,$64.806,3.2/5,2015,America
+20,IT Project Manager,$103.710,3.2/5,2015,America
+21,Client Services Manager,$103.736,3.7/5,2015,America
+22,Supply Chain Manager,$83.795,3.4/5,2015,America
+23,Mobile Developer ,$79.810,3.3/5,2015,America
+24,Nurse Practitioner ,$95.171,3.1/5,2015,America
+25,Sales Engineer,$91.318,3.2/5,2015,America
+1,Java Developer,£55.381,4.1/5,2022,UK
+2,Enterprise Architect,£73.898,4.1/5,2022,UK
+3,Product Manager,£60.656,4.1/5,2022,UK
+4,Full Stack Engineer,£47.320,4.3/5,2022,UK
+5,Data Scientist,£49.449,4.2/5,2022,UK
+6,HR Manager,£48.443,4.4/5,2022,UK
+7,Corporate Recruiter,£46.215,4.6/5,2022,UK
+8,HR Business Partner,£50.000,4.3/5,2022,UK
+9,Front End Engineer,£43.803,4.2/5,2022,UK
+10,Marketing Manager,£47.320,4.2/5,2022,UK
+11,UX Designer,£46.382,4.3/5,2022,UK
+12,Mobile Engineer,£51.443,4.1/5,2022,UK
+13,Sales Manager,£47.320,4/5,2022,UK
+14,Operations Manager,£47.320,4/5,2022,UK
+15,Data Engineer,£50.198,4/5,2022,UK
+16,Devops Engineer,£53.888,4/5,2022,UK
+17,Software Engineer,£50.060,3.9/5,2022,UK
+18,Business Development Manager,£47.320,4/5,2022,UK
+19,Cloud Engineer,£60.430,4/5,2022,UK
+20,Customer Success Manager,£41.133,4.2/5,2022,UK
+21,Program Manager,£60.554,3.9/5,2022,UK
+22,Finance Manager,£57.514,3.9/5,2022,UK
+23,Delivery Manager,£53.892,3.9/5,2022,UK
+24,Consultant,£46.215,3.9/5,2022,UK
+25,Procurement Agent,£46.860,4/5,2022,UK
+1,Product Manager,£60.221,4.1/5,2021,UK
+2,Enterprise Architect,£71.392,4.1/5,2021,UK
+3,Dentist,£55.500,4.0/5,2021,UK
+4,Full Stack Engineer,£45.000,4.4/5,2021,UK
+5,Sales Manager,£50.000,4.0/5,2021,UK
+6,Mobile Engineer,£50.602,4.2/5,2021,UK
+7,Tax Manager,£58.000,4.1/5,2021,UK
+8,Cloud Engineer,£55.000,4.2/5,2021,UK
+9,Commercial Manager,£56.206,4.1/5,2021,UK
+10,Business Development Manager,£45.542,4.0/5,2021,UK
+11,HR Business Partner,£50.602,4.2/5,2021,UK
+12,Program Manager,£62.747,4.0/5,2021,UK
+13,Risk Manager,£68.577,4.0/5,2021,UK
+14,HR Manager,£50.184,4.3/5,2021,UK
+15,Customer Success Manager,£41.000,4.3/5,2021,UK
+16,Devops Engineer,£50.184,3.9/5,2021,UK
+17,Data Scientist,£45.542,4.1/5,2021,UK
+18,Information Security Engineer,£50.276,4.1/5,2021,UK
+19,Front End Engineer,£40.741,4.0/5,2021,UK
+20,Data Engineer,£45.000,4.0/5,2021,UK
+21,Delivery Manager,£57.315,4.0/5,2021,UK
+22,Marketing Manager,£42.154,4.0/5,2021,UK
+23,Operations Manager,£45.542,3.9/5,2021,UK
+24,Site Manager,£45.542,3.9/5,2021,UK
+25,Java Developer,£50.184,3.9/5,2021,UK
+1,Enterprise Architect,£75.209,3.9/5,2020,UK
+2,Product Manager,£56.195,3.9/5,2020,UK
+3,Operations Manager,£45.590,4.0/5,2020,UK
+4,Business Development Manager,£40.677,4.0/5,2020,UK
+5,DevOps Engineer,£51.000,4.0/5,2020,UK
+6,Data Scientist,£45.188,4.2/5,2020,UK
+7,HR Business Partner,£50.139,4.1/5,2020,UK
+8,Finance Manager,£60.403,3.8/5,2020,UK
+9,Delivery Manager,£58.447,3.9/5,2020,UK
+10,Contract Manager,£44.122,3.9/5,2020,UK
+11,Software Engineer,£45.590,3.7/5,2020,UK
+12,Customer Success Manager,£40.000,4.5/5,2020,UK
+13,Risk Manager,£60.000,3.9/5,2020,UK
+14,Strategy Manager,£74.896,4.1/5,2020,UK
+15,Commercial Manager,£58.385,3.9/5,2020,UK
+16,Tax Manager,£62.995,3.8/5,2020,UK
+17,Business Analyst,£42.912,3.7/5,2020,UK
+18,Data Engineer,£45.590,3.9/5,2020,UK
+19,Engagement Manager,£51.166,4.2/5,2020,UK
+20,Sales Engineer,£45.977,4.0/5,2020,UK
+21,Design Manager,£56.439,3.9/5,2020,UK
+22,Corporate Recruiter,£40.111,4.5/5,2020,UK
+23,HR Manager,£50.000,4.2/5,2020,UK
+24,Naval Architect,£32.500,3.9/5,2020,UK
+25,Product Designer,£49.977,4.1/5,2020,UK
+1,Audit Manager,£52.000,4.5/5,2019,UK
+2,Finance Manager,£60.000,3.8/5,2019,UK
+3,Marketing Manager,£42.500,3.9/5,2019,UK
+4,Product Manager,£52.500,3.8/5,2019,UK
+5,Sales Manager,£42.000,3.8/5,2019,UK
+6,Risk Manager,£60.000,3.9/5,2019,UK
+7,Data Scientist,£46.000,4/5,2019,UK
+8,Operations Manager,£42.000,3.7/5,2019,UK
+9,Design Manager,£55.000,4.1/5,2019,UK
+10,Business Analyst,£40.000,3.7/5,2019,UK
+11,Front End Developer,£35.000,4/5,2019,UK
+12,Commercial Manager,£57.000,4/5,2019,UK
+13,Business Development Manager,£37.060,3.7/5,2019,UK
+14,Project Manager,£39.000,3.6/5,2019,UK
+15,HR Manager,£49.000,4.1/5,2019,UK
+16,Contract Manager,£40.000,3.7/5,2019,UK
+17,Communications Manager,£43.700,4.1/5,2019,UK
+18,Software Engineer,£43.000,3.5/5,2019,UK
+19,Executive Assistant,£37.000,4.1/5,2019,UK
+20,HR Business Partner,£49.000,3.8/5,2019,UK
+21,Engagement Manager,£48.000,4.3/5,2019,UK
+22,Web Developer,£31.000,3.9/5,2019,UK
+23,Recruiter,£25.000,4.4/5,2019,UK
+24,Solutions Architect,£70.000,3.4/5,2019,UK
+25,Software Developer,£37.000,3.5/5,2019,UK
+1,Marketing Manager,£42.000,4.0/5,2018,UK
+2,Operations Manager,£42.000,4.0/5,2018,UK
+3,Audit Manager,£55.000,4.3/5,2018,UK
+4,Finance Manager,£60.900,3.6/5,2018,UK
+5,Product Manager,£52.000,3.7/5,2018,UK
+6,HR Manager,£45.750,4.2/5,2018,UK
+7,Contract Manager,£40.000,4.0/5,2018,UK
+8,Commercial Manager,£52.400,3.8/5,2018,UK
+9,Business Analyst,£39.000,3.7/5,2018,UK
+10,Project Manager,£44.000,3.5/5,2018,UK
+11,Business Development Manager,£38.000,3.7/5,2018,UK
+12,Software Engineer,£42.500,3.5/5,2018,UK
+13,HR Business Partner,£55.000,3.8/5,2018,UK
+14,Solutions Architect,£70.000,3.5/5,2018,UK
+15,Production Manager,£35.000,3.8/5,2018,UK
+16,Data Analyst,£28.500,4.0/5,2018,UK
+17,Data Scientist,£45.000,3.6/5,2018,UK
+18,Communications Manager,£45.000,3.9/5,2018,UK
+19,Recruiter,£25.000,4.1/5,2018,UK
+20,National Account Manager,£45.000,4.2/5,2018,UK
+21,Site Manager,£35.750,3.5/5,2018,UK
+22,Mobile Developer,£50.000,3.8/5,2018,UK
+23,Brand Manager,£40.000,4.0/5,2018,UK
+24,Engagement Manager,£55.000,4.2/5,2018,UK
+25,Executive Assistant,£36.000,3.9/5,2018,UK
+1,Finance Manager,£68.000,3.7/5,2017,UK
+2,Tax Manager,£59.228,3.8/5,2017,UK
+3,Design Manager,£55.000,4.1/5,2017,UK
+4,Audit Manager,£59.500,4.2/5,2017,UK
+5,HR Manager,£50.000,4.1/5,2017,UK
+6,Data Scientist,£45.000,4.4/5,2017,UK
+7,Supply Chain Manager,£53.000,4.1/5,2017,UK
+8,Solutions Architect,£65.000,3.8/5,2017,UK
+9,Scrum Master,£55.000,4.4/5,2017,UK
+10,Communications Manager,£46.800,4.2/5,2017,UK
+11,Commercial Manager,£65.000,3.6/5,2017,UK
+12,Marketing Manager,£45.000,3.8/5,2017,UK
+13,Operations Manager,£50.000,3.6/5,2017,UK
+14,Risk Manager,£60.000,4/5,2017,UK
+15,Site Manager,£45.000,3.7/5,2017,UK
+16,PHP Developer,£34.500,4/5,2017,UK
+17,Product Manager,£55.000,3.5/5,2017,UK
+18,Project Engineer,£40.000,3.8/5,2017,UK
+19,Technical Architect,£66.000,3.9/5,2017,UK
+20,Maintenance Manager,£45.000,4.1/5,2017,UK
+21,Payroll Manager,£38.533,4.1/5,2017,UK
+22,Mobile Developer,£52.500,3.6/5,2017,UK
+23,Business Analyst,£40.891,3.6/5,2017,UK
+24,Project Manager,£47.500,3.4/5,2017,UK
+25,Brand Manager,£43.750,4.0/5,2017,UK
+1,Business Development Manager,£40.000,3.5/5,2016,UK
+2,Finance Manager,£55.000,3.3/5,2016,UK
+3,Operations Manager,£45.000,3.7/5,2016,UK
+4,HR Manager,£50.000,3.8/5,2016,UK
+5,Marketing Manager,£45.000,3.4/5,2016,UK
+6,Business Analyst,£41.000,3.4/5,2016,UK
+7,Commercial Manager,£57.000,3.3/5,2016,UK
+8,Project Manager,£45.675,3.1/5,2016,UK
+9,Product Manager,£54.000,3.2/5,2016,UK
+10,Software Engineer,£40.000,3.1/5,2016,UK
+11,Marketing Analyst,£30.225,3.7/5,2016,UK
+12,Account Manager,£35.000,3.2/5,2016,UK
+13,Recruiting Manager,£43.000,4.3/5,2016,UK
+14,Recruitment Consultant,£22.000,3.8/5,2016,UK
+15,Solutions Architect,£63.500,3.1/5,2016,UK
+16,Sales Manager,£37.500,3.0/5,2016,UK
+17,Brand Manager,£45.000,3.5/5,2016,UK
+18,Accountant,£32.000,3.1/5,2016,UK
+19,Business Development Executive,£25.000,3.5/5,2016,UK
+20,Consultant,£41.700,3.5/5,2016,UK
+21,Talent Acquisition Specialist,£40.000,4.2/5,2016,UK
+22,Design Engineer,£33.813,2.9/5,2016,UK
+23,Service Manager,£43.315,3.1/5,2016,UK
+24,Trader,£50.000,3.4/5,2016,UK
+25,Personal Assistant,£28.000,3.7/5,2016,UK
+1,Marketing Manager ,£46.561,3.6/5,2015,UK
+2,Finance Manager,£52.081,3.2/5,2015,UK
+3,Mechanical Engineer,£34.799,3.5/5,2015,UK
+4,Sales Manager,£45.613,3.3/5,2015,UK
+5,Business Analyst,£46.047,3.3/5,2015,UK
+6,IT Manager,£57.818,3.0/5,2015,UK
+7,Civil Engineer,£36.142,3.3/5,2015,UK
+8,Product Manager,£52.478,3.4/5,2015,UK
+9,Lawyer,£55.020,3.5/5,2015,UK
+10,Software Engineer,£40.400,3.0/5,2015,UK
+11,Human Resources Manager,£53.978,3.7/5,2015,UK
+12,Business Development Manager,£41.003,3.1/5,2015,UK
+13,Internal Audit Manager,£39.141,3.6/5,2015,UK
+14,Solutions Architect,£66.349,3.3/5,2015,UK
+15,Network Engineer,£40.023,3.4/5,2015,UK
+16,Investment Analyst,£53.954,3.4/5,2015,UK
+17,Operations Manager,£47.496,2.9/5,2015,UK
+18,Recruiter,£23.419,3.3/5,2015,UK
+19,Brand Manager,£39.557,3.4/5,2015,UK
+20,Office Manager,£27.643,3.4/5,2015,UK
+21,Executive Assistant,£29.612,3.3/5,2015,UK
+22,Accountant,£29.488,2.9/5,2015,UK
+23,Sales Engineer,£34.845,3.0/5,2015,UK
+24,UX Designer,£47.437,3.2/5,2015,UK
+25,Trader,£63.250,3.0/5,2015,UK
